@@ -4,4 +4,4 @@ This project consists of implementing an EOR Screening by using Machine Learning
 
 It is important to mention that the workflow followed by the project is shown as follows:
 
-![](images/Machine Learning Pipeline.png)
+<img src="Images/Machine Learning Pipeline.png">
